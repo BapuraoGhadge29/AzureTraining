@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/BankingPayment.FunctionApp/">
+    <Project Path="BankingPayment.FunctionApp/BankingPayment_FunctionApp.csproj" />
+  </Folder>
+  <Project Path="BankingPayment.Console/BankingPayment.Console.csproj" />
+</Solution>

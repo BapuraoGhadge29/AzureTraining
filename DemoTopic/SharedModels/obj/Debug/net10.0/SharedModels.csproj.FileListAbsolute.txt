@@ -1,0 +1,11 @@
+D:\Training\AzureTraining\DemoTopic\SharedModels\bin\Debug\net10.0\SharedModels.deps.json
+D:\Training\AzureTraining\DemoTopic\SharedModels\bin\Debug\net10.0\SharedModels.dll
+D:\Training\AzureTraining\DemoTopic\SharedModels\bin\Debug\net10.0\SharedModels.pdb
+D:\Training\AzureTraining\DemoTopic\SharedModels\obj\Debug\net10.0\SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\AzureTraining\DemoTopic\SharedModels\obj\Debug\net10.0\SharedModels.AssemblyInfoInputs.cache
+D:\Training\AzureTraining\DemoTopic\SharedModels\obj\Debug\net10.0\SharedModels.AssemblyInfo.cs
+D:\Training\AzureTraining\DemoTopic\SharedModels\obj\Debug\net10.0\SharedModels.csproj.CoreCompileInputs.cache
+D:\Training\AzureTraining\DemoTopic\SharedModels\obj\Debug\net10.0\SharedModels.dll
+D:\Training\AzureTraining\DemoTopic\SharedModels\obj\Debug\net10.0\refint\SharedModels.dll
+D:\Training\AzureTraining\DemoTopic\SharedModels\obj\Debug\net10.0\SharedModels.pdb
+D:\Training\AzureTraining\DemoTopic\SharedModels\obj\Debug\net10.0\ref\SharedModels.dll

@@ -1,0 +1,17 @@
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\bin\Debug\net10.0\BankingPayment.Console.exe
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\bin\Debug\net10.0\BankingPayment.Console.deps.json
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\bin\Debug\net10.0\BankingPayment.Console.runtimeconfig.json
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\bin\Debug\net10.0\BankingPayment.Console.dll
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\bin\Debug\net10.0\BankingPayment.Console.pdb
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\BankingPayment.Console.csproj.AssemblyReference.cache
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\BankingPayment.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\BankingPayment.Console.AssemblyInfoInputs.cache
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\BankingPayment.Console.AssemblyInfo.cs
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\BankingPayment.Console.csproj.CoreCompileInputs.cache
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\BankingP.BAB8CC75.Up2Date
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\BankingPayment.Console.dll
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\refint\BankingPayment.Console.dll
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\BankingPayment.Console.pdb
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\BankingPayment.Console.genruntimeconfig.cache
+D:\Training\AzureTraining\AzureFuncLogicDemo\BankingPayment.Console\obj\Debug\net10.0\ref\BankingPayment.Console.dll
