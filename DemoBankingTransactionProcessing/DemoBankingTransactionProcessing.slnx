@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FunctionApp/DemoBankingTransactionProcessing.csproj" />
+  <Project Path="TransactionPublisher/TransactionPublisher.csproj" />
+</Solution>
