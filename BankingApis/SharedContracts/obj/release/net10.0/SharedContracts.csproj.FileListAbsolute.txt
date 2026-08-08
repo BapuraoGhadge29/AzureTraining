@@ -1,0 +1,11 @@
+D:\Training\AzureTraining\BankingEventDrivenSystem\FraudCheckFunction\bin\publish\SharedContracts.deps.json
+D:\Training\AzureTraining\BankingEventDrivenSystem\FraudCheckFunction\bin\publish\SharedContracts.dll
+D:\Training\AzureTraining\BankingEventDrivenSystem\FraudCheckFunction\bin\publish\SharedContracts.pdb
+D:\Training\AzureTraining\BankingEventDrivenSystem\SharedContracts\obj\release\net10.0\SharedContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\AzureTraining\BankingEventDrivenSystem\SharedContracts\obj\release\net10.0\SharedContracts.AssemblyInfoInputs.cache
+D:\Training\AzureTraining\BankingEventDrivenSystem\SharedContracts\obj\release\net10.0\SharedContracts.AssemblyInfo.cs
+D:\Training\AzureTraining\BankingEventDrivenSystem\SharedContracts\obj\release\net10.0\SharedContracts.csproj.CoreCompileInputs.cache
+D:\Training\AzureTraining\BankingEventDrivenSystem\SharedContracts\obj\release\net10.0\SharedContracts.dll
+D:\Training\AzureTraining\BankingEventDrivenSystem\SharedContracts\obj\release\net10.0\refint\SharedContracts.dll
+D:\Training\AzureTraining\BankingEventDrivenSystem\SharedContracts\obj\release\net10.0\SharedContracts.pdb
+D:\Training\AzureTraining\BankingEventDrivenSystem\SharedContracts\obj\release\net10.0\ref\SharedContracts.dll
