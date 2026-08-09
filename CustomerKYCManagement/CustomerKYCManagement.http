@@ -1,0 +1,6 @@
+@CustomerKYCManagement_HostAddress = http://localhost:5035
+
+GET {{CustomerKYCManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
