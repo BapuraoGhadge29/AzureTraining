@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoQueStorage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd47afa3f3eaa4695f751012912cf6b86e601042")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b1048ac9bd789e36b6b0306087c2854ce554aa8")]
+>>>>>>> key valult
 [assembly: System.Reflection.AssemblyProductAttribute("DemoQueStorage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoQueStorage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

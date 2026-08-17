@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/workspaces/AzureTraining/AzureFuncLogicDemo/BankingPayment.Console/BankingPayment.Console.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/workspaces/AzureTraining/AzureFuncLogicDemo/BankingPayment.Console/BankingPayment.Console.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
         "outputPath": "/workspaces/AzureTraining/AzureFuncLogicDemo/BankingPayment.Console/obj/",
+=======
+    "d:\\Training\\AzureTraining\\AzureFuncLogicDemo\\BankingPayment.Console\\BankingPayment.Console.csproj": {}
+  },
+  "projects": {
+    "d:\\Training\\AzureTraining\\AzureFuncLogicDemo\\BankingPayment.Console\\BankingPayment.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Training\\AzureTraining\\AzureFuncLogicDemo\\BankingPayment.Console\\BankingPayment.Console.csproj",
+        "projectName": "BankingPayment.Console",
+        "projectPath": "d:\\Training\\AzureTraining\\AzureFuncLogicDemo\\BankingPayment.Console\\BankingPayment.Console.csproj",
+        "packagesPath": "C:\\Users\\bg108836\\.nuget\\packages\\",
+        "outputPath": "d:\\Training\\AzureTraining\\AzureFuncLogicDemo\\BankingPayment.Console\\obj\\",
+>>>>>>> key valult
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

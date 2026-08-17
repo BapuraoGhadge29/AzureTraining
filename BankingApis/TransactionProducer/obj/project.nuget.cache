@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "PHG5oSXqhpk=",
   "success": true,
   "projectFilePath": "/workspaces/AzureTraining/BankingApis/TransactionProducer/TransactionProducer.csproj",
+=======
+  "dgSpecHash": "WR04UyH6CyY=",
+  "success": true,
+  "projectFilePath": "D:\\Training\\AzureTraining\\BankingApis\\TransactionProducer\\TransactionProducer.csproj",
+>>>>>>> key valult
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/azure.core/1.53.0/azure.core.1.53.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/azure.identity/1.21.0/azure.identity.1.21.0.nupkg.sha512",

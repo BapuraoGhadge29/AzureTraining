@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/workspaces/AzureTraining/BankingApis/TransactionProducer/TransactionProducer.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/workspaces/AzureTraining/BankingApis/TransactionProducer/TransactionProducer.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
         "outputPath": "/workspaces/AzureTraining/BankingApis/TransactionProducer/obj/",
+=======
+    "D:\\Training\\AzureTraining\\BankingApis\\TransactionProducer\\TransactionProducer.csproj": {}
+  },
+  "projects": {
+    "D:\\Training\\AzureTraining\\BankingApis\\TransactionProducer\\TransactionProducer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\AzureTraining\\BankingApis\\TransactionProducer\\TransactionProducer.csproj",
+        "projectName": "TransactionProducer",
+        "projectPath": "D:\\Training\\AzureTraining\\BankingApis\\TransactionProducer\\TransactionProducer.csproj",
+        "packagesPath": "C:\\Users\\bg108836\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\AzureTraining\\BankingApis\\TransactionProducer\\obj\\",
+>>>>>>> key valult
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

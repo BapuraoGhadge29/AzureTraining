@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "UhCzsvSWAAE=",
   "success": true,
   "projectFilePath": "/workspaces/AzureTraining/AzureFuncLogicDemo/BankingPayment.Console/BankingPayment.Console.csproj",
+=======
+  "dgSpecHash": "w1+IuZwt18M=",
+  "success": true,
+  "projectFilePath": "d:\\Training\\AzureTraining\\AzureFuncLogicDemo\\BankingPayment.Console\\BankingPayment.Console.csproj",
+>>>>>>> key valult
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
   ],
